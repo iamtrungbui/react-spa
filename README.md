@@ -1,5 +1,4 @@
-# react-spa
-Các bước xây dựng một dự án SPA (Single Page Application) bằng React
+## Các bước xây dựng một dự án SPA (Single Page Application) bằng React
 
 1. Setup dự án dùng webpack / nginx
 2. Các khái niệm cơ bản của về Es6
@@ -12,3 +11,5 @@ Các bước xây dựng một dự án SPA (Single Page Application) bằng Rea
 9. Phân chia layout dựa trên URL
 10. Gọi API sử dụng fetch
 11. Unit test
+
+Mỗi bài viết sẽ có 1 branch source code tương ứng
